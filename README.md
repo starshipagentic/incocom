@@ -1,2 +1,3 @@
 # incocom
-Placeholder repo for the incocom project
+
+Placeholder package. The `incocom` name is reserved for a future project.
